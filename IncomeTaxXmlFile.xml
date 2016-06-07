@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<IncomeTax>
+  
+  <PersonDetail>
+    <PANno>BUFPK0469M</PANno>
+    <Name>Suresh Kumar Kaushik</Name>
+    <Address>Hyderabad</Address>
+    <Mobileno>7093038801</Mobileno>    
+  </PersonDetail>
+
+  <IncomeDetail>
+    <AssessmentYear>2016-17</AssessmentYear>
+    <IncomeFromSalary>200000</IncomeFromSalary>
+    <IncomeFromOtherSource>100000</IncomeFromOtherSource>
+    <_80C>50000</_80C>
+  </IncomeDetail>
+  
+</IncomeTax>
